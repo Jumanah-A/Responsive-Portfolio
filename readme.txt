@@ -34,16 +34,20 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. How long, in hours, did it take you to complete this assignment?
+  I would say just to perfect eveyrthing and make it the way I want,
+  with getting stuck on css declarations here and there, 15 hours (unconsecutive).
 
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
+The Bootstrap Documenetation on Navbars and The Grid System:
+  1.navbar: https://getbootstrap.com/docs/4.0/components/navbar/
+  2.The grid system: https://getbootstrap.com/docs/4.0/layout/grid/
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+   I haven't discussed this projects with classmates.
 
 
 6. Is there anything special we need to know in order to run your code?
-
+  No, everything runs as it should.
