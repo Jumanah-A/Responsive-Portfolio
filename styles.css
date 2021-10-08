@@ -1,0 +1,46 @@
+body
+{
+  height:100%;
+}
+a:hover, a:visited,a:active {color:white;}
+.center-text
+{
+  text-align: center;
+}
+.container
+{
+  height:auto;
+  min-height: 100%;
+}
+.flex
+{
+  display:flex;
+}
+.flex-column
+{
+  flex-direction: column;
+}
+.justify-center
+{
+  justify-content: center;
+}
+.padding-4
+{
+  padding:4rem 0;
+}
+.padding-1
+{
+  padding:1rem;
+}
+
+.color
+{
+  background-color: #C6B9DB;
+}
+.button-style
+{
+  border:none;
+  border-radius:1rem;
+  padding:1rem;
+  background-color: #614e80;
+}
