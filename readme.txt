@@ -11,23 +11,30 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
+- 1/1 Readme
+- 3/2 Basic HTML content
+- 1/1 Basic CSS styling
 - */1 Advanced feature
-- */2 Responsive layout
+- 3/2 Responsive layout
 - */1 Passes validation checks
 - */2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
+I have included the following basic HTML features:
+  one image, with descriptive alt attribute(s)
+  Appropriate headings and paragraph text
+  Links to external page(s) both html pages and external pages such as github, linkedin, etc.
+  Multiple pages, with appropriate navigation between them (navbar)
+  Semantic HTML tags like aside or footer (navbar, main)
+  Adding custom icons from Google Material Icons or Font Awesome (github, linkedin icons.)
 
-
-
-(b) CSS features
-
-
+(b) CSS features:
+  I have included the following CSS features:
+    Modifying padding and margins to indent content and enhance readability.
+    Modifying link, text color, or other colors to be visually appealing.
+    Leveraging Bootstrap CSS helpers such as image shapes and table layouts to display content in a more interesting manner (responsive manner).
 
 (c) Advanced features
 
@@ -44,10 +51,8 @@ The Bootstrap Documenetation on Navbars and The Grid System:
   1.navbar: https://getbootstrap.com/docs/4.0/components/navbar/
   2.The grid system: https://getbootstrap.com/docs/4.0/layout/grid/
 
-
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
    I haven't discussed this projects with classmates.
-
 
 6. Is there anything special we need to know in order to run your code?
   No, everything runs as it should.
