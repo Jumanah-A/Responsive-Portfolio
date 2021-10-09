@@ -10,14 +10,14 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
+11/10
 - 1/1 Readme
 - 3/2 Basic HTML content
 - 1/1 Basic CSS styling
-- */1 Advanced feature
+- 1/1 Advanced feature
 - 3/2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -37,13 +37,13 @@ I have included the following basic HTML features:
     Leveraging Bootstrap CSS helpers such as image shapes and table layouts to display content in a more interesting manner (responsive manner).
 
 (c) Advanced features
-
+  Creating a more complex page layout, such as including a sidebar or navigation bar,I implemneted a navbar that is at the top of the page and can be accessed on every page.
+  added an anchor tag that opens up the email when clicking on the link
 
 
 3. How long, in hours, did it take you to complete this assignment?
   I would say just to perfect eveyrthing and make it the way I want,
   with getting stuck on css declarations here and there, 15 hours (unconsecutive).
-
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
